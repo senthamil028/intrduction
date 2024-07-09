@@ -1,0 +1,30 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    h2{
+        font-size: x-large;
+        color:red;
+    }
+}
+h2{
+    font-size: x-large;
+    color:red;
+}
+h1{
+    color: black;
+    background-color: blue;
+}
+a{
+    text-decoration: wavy;
+    font-size: larger;
+    color: red;
+    text-align: center;
+    text-shadow: 50px ;
+}
+*{
+    background-color: pink;
+}

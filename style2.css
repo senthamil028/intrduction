@@ -1,0 +1,32 @@
+h1{
+    color: black;
+    background-color: blue;
+    
+    
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+
+
+}
+ol{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-size: x-large;
+    color:red;
+}
+li{
+    font-size: x-large;
+}
+*{
+    background-color: pink;
+}
